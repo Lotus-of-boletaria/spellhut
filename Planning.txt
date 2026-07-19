@@ -1,0 +1,80 @@
+Planning
+
+Install and create a virtual environment
+install and create an empty Django project
+
+Create app for core pages
+Create a simple base.html file
+Extend base.html and use for front pagesadd "products" to front page
+
+Create app for projects
+Create database model for category
+Add categories in admin interface
+Create database model for products
+Add products in admin interface
+Show products on the front page
+
+Create html for the category/shop page
+Create html for the project details page
+
+Show categories in sidebar
+Show active category
+Simple product search
+
+Add dynamic information in product lists
+Make product list reusable
+Show product detail page
+
+Create django app for ccart
+Create cart class
+Make cart globally available
+
+Create view for adding to cart
+Include htmx cdn
+Create reusable cart html
+Add to cart
+
+Set up html for sign up page
+Set up html for log in page
+Add product images
+
+Make it possible to sign up
+Make it possible to log out
+Make it possible to log in
+
+Make html for the cart page
+Make html for the checkout page
+
+Add to cart from search
+Check if image exists first
+Fix links in the menu
+Add title to the browser
+
+Show correct products in cart
+Show total price in cart
+Show total price in checkout
+Only allow checkout for authenticated users
+Show user information in checkout
+Change checkout link in cart
+
+Html for my account page
+Add link to my account
+Edit account page
+Edit account functionality
+
+Move cart item html to seperate file
+Add htmx wrapper for menu cart
+Create view and url for menu cart
+Create view and url for update cart
+Add htmx attributes for cart buttons
+Update total price
+
+Create app for orders
+Create database model for orders
+Create view and url for checkout
+List correct orders in my account
+
+Create new database model for reviews
+Create form for reviews
+Display reviews
+Create a model function
